@@ -1,0 +1,52 @@
+body{
+  background: linear-gradient(to right, #477cb1, #17548c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.header{
+  background-color: rgb(247, 252, 252);
+  padding: 1px;
+  text-align: center;
+  font-style:unset;
+}
+
+.form{
+  background-color: white;
+  border-radius: 5px;
+  width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  /* height: 400px; */
+}
+
+.form-body{
+  text-align: left;
+  padding: 20px 10px;
+}
+
+.form-body > *{
+  padding: 5px;
+}
+
+.form__label{
+  width: 0%;
+  
+}
+
+.form_input{
+  width: 90%;
+  padding: 6px ;
+}
+.form_text{
+  width: auto;
+  color: rgb(233, 3, 3);
+
+}
+
+.footer{
+  text-align: center;
+  margin: 10x;
+  /* background-color:#c7def5 */
+} 
+.message{
+  color: #4CAF50;
+  text-decoration: none;
+}
